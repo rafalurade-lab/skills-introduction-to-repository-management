@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @rafalurade-lab
+/src/backend/database.py      @rafalurade-lab
+/src/backend/routers/auth.py  @rafalurade-lab
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @rafalurade-lab
